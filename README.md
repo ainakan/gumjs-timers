@@ -1,3 +1,3 @@
-# @frida/timers
+# @ainakan/timers
 
-Frida-optimized ESM fork of https://github.com/browserify/timers-browserify.
+Ainakan-optimized ESM fork of https://github.com/browserify/timers-browserify.
